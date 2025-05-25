@@ -7,7 +7,7 @@ A fun plugin used to override the sound the Soulflame Horn makes when the specia
 | ------------- | ------------- |
 | Play on unaffected  | Should sound effect be overridden with the plugin sound when the horn effect is not applied to anybody (I.E. nobody is around or everyone was recently buffed already by it). |
 | Play on others  | Should the sound effect be overridden if someone in your vicinity uses the horn instead. **WARNING** - I have been unable to test this with huge groups of people and it is therefore defaulted to off. |
-| Sound to use | A custom list of sounds has been used from various creators live streams. I obviously could not list every creator that I'd like to, so I choose some of my favourite and allowed a custom sound to be used if you wish (below). Ranom selection will play from the random select and will include your custom sound. |
+| Sound to use | A custom list of sounds has been used from various creators live streams. I obviously could not list every creator that I'd like to, so I choose some of my favourite and allowed a custom sound to be used if you wish (below). Ranom selection will play a random sound from the default sounds and will include your custom sound if you have one configured. |
 | Volume | 1-10, lower is quieter. |
 | Custom sound | The name of the custom .wav file you'd like to use. Must be used in conjuction with either 'Random' or 'Custom' Sound to use configuration. You can only have one custom sound active at a time. Instructions below. |
 
